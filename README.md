@@ -1,2 +1,46 @@
-# b194c64a-pressure-washing-exterior-re
-The pressure washing tool you'd build yourself — if you had the time.  Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Pressure Washing &amp; Exterior Regulatory Compliance Checklist — fully configured and ready to use - Pre-buil
+# Pressure Washing & Exterior Regulatory Compliance Checklist Notion Template
+
+> Notion Template for Pressure Washing
+
+The pressure washing tool you'd build yourself — if you had the time.
+
+Pre-built databases, views, and formula fields — ready to duplicate and use. Mobile-optimized for Notion iOS and Android — works everywhere you work.
+
+## What's Included
+
+- Pressure Washing & Exterior Regulatory Compliance Checklist — fully configured and ready to use
+-...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | ✅ | ✅ |
+| Standard views | ✅ | ✅ |
+| Sample data | ✅ | ✅ |
+| Advanced automations | ❌ | ✅ |
+| Custom formulas | ❌ | ✅ |
+| Multiple databases | ❌ | ✅ |
+| Dashboard views | ❌ | ✅ |
+| Lifetime updates | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/14A14nbHh5wgbRSeM4cZQ20)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
